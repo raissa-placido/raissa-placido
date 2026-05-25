@@ -3,7 +3,7 @@
 
 <h3>Who I am</h3>
 
-- 🔭 I am an undergraduate student studying Systems Analysis and Development at IFRN, and I currently work in user support at a bank.
+- 🔭 I am an undergraduate student studying Systems Analysis and Development at IFRN, and I currently work in user support.
 - 🌱 I’m currently learning full-stack software development using tools such as the Django framework, Tailwind CSS, and databases like MySQL and PostgreSQL.
 
 
